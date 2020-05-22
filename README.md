@@ -1,1 +1,1 @@
-# My-Kaggle-codes
+My submissions for kaggle competitions.
